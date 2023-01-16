@@ -1,11 +1,20 @@
 # pruebaTecnicaReact
+
 dash board en react y tailwilcss
 
 npm install --global yarn 
+
 yarn add vite
+
 yarn create vite profiledash   // crea el projecto    
+
+
 yarn add -D tailwindcss postcss autoprefixer // instala tailwin
+
+
 npx tailwindcss init -p 
+
+
 yarn add react-icons
 
 
